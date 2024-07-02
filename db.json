@@ -1,0 +1,7 @@
+{
+  "expenses": [
+    { "id": "1", "title": "Tim Hortons", "cost": 2.5 },
+    { "id": "2", "title": "TTC Pass", "cost": 128 },
+    { "id": "3", "title": "Popeyes", "cost": 18 }
+  ]
+}
